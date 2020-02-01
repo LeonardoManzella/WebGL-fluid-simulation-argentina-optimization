@@ -1,0 +1,19 @@
+{
+  "name": "webgl-fluid-simulation-argentina-optimization",
+  "version": "1.0.0",
+  "description": "Optimization of fast fluid dynamics simulation on the GPU to support older Argentinian smartphones",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoManzella/WebGL-fluid-simulation-argentina-optimization.git"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoManzella/WebGL-fluid-simulation-argentina-optimization/issues"
+  },
+  "homepage": "https://github.com/LeonardoManzella/WebGL-fluid-simulation-argentina-optimization#readme"
+}
